@@ -1,0 +1,1 @@
+Iniciando o curso ODIN Project, revisando os básicos, inclusive GIT.
